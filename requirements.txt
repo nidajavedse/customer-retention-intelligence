@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn==1.4.2
+shap
+joblib
+openpyxl
+streamlit
+requests
