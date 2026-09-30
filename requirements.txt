@@ -1,8 +1,8 @@
+streamlit
 pandas
 numpy
-scikit-learn==1.4.2
+scikit-learn
 shap
 joblib
 openpyxl
-streamlit
 requests
